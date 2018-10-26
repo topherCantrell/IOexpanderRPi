@@ -9,6 +9,7 @@ https://learn.sparkfun.com/tutorials/sx1509-io-expander-breakout-hookup-guide
 Datasheet for the SX1507:<br>
 https://cdn.sparkfun.com/assets/learn_tutorials/4/3/4/sx150x_789.pdf
 
+
 ## Schematics
 
 ![](art/schematic.jpg)
