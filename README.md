@@ -35,4 +35,4 @@ pi@tink:~ $ i2cdetect -y 1
 
 ## Testing
 
-![](testing.jpg)
+![](art/testing.jpg)
