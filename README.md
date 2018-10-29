@@ -6,8 +6,11 @@ https://www.sparkfun.com/products/13601
 SparkFun's tutorial:<br>
 https://learn.sparkfun.com/tutorials/sx1509-io-expander-breakout-hookup-guide
 
-Datasheet for the SX1507:<br>
+Datasheet for the SX1509:<br>
 https://cdn.sparkfun.com/assets/learn_tutorials/4/3/4/sx150x_789.pdf
+
+Keypad from Adafruit:<br>
+https://www.adafruit.com/product/3845
 
 
 ## Schematics
